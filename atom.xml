@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Saravana Kumar's]]></title>
-  <link href="http://saran87.github.com/atom.xml" rel="self"/>
-  <link href="http://saran87.github.com/"/>
-  <updated>2014-02-24T05:39:23-05:00</updated>
-  <id>http://saran87.github.com/</id>
+  <link href="http://saran87.github.io/atom.xml" rel="self"/>
+  <link href="http://saran87.github.io/"/>
+  <updated>2014-02-24T05:49:24-05:00</updated>
+  <id>http://saran87.github.io/</id>
   <author>
     <name><![CDATA[Saravana Kumar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Union-Find Data Structure Python : For Clustering Algorithm]]></title>
-    <link href="http://saran87.github.com/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm/"/>
+    <link href="http://saran87.github.io/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm/"/>
     <updated>2013-01-04T22:45:00-05:00</updated>
-    <id>http://saran87.github.com/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm</id>
+    <id>http://saran87.github.io/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm</id>
     <content type="html"><![CDATA[<p>I was coding kurskal’s clustering algorithm for a max-spacing k-clustering problem. To improve the efficiency of the clustering algorithm, I needed an efficient data structure to union two cluster and find an element in a cluster.</p>
 
 <p>Union Find (disjoint-set) data structure is best option for above operations. Implemented the Union Find structure as per the algorithm specified in the Introduction to Algorithms book.</p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Interview Street Challenge - Candies]]></title>
-    <link href="http://saran87.github.com/blog/2012/08/23/interview-street-challenge-candies/"/>
+    <link href="http://saran87.github.io/blog/2012/08/23/interview-street-challenge-candies/"/>
     <updated>2012-08-23T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2012/08/23/interview-street-challenge-candies</id>
+    <id>http://saran87.github.io/blog/2012/08/23/interview-street-challenge-candies</id>
     <content type="html"><![CDATA[<div class='post'>
 <div dir="ltr" style="text-align: left;" trbidi="on"><br /><b>Problem:</b><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Interview Street&nbsp;<a href="https://www.interviewstreet.com/challenges/dashboard/#problem/4fe12e4cbb829" target="_blank">Problem</a>:<br /><br /><b>Idea:</b><br />&nbsp; &nbsp; &nbsp; &nbsp; If the rating is in increasing order<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Just traverse through it and increase the number of candies<br />&nbsp; &nbsp; &nbsp; &nbsp; If the rating is in decreasing order<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Same as increasing order but in reverse way<br />&nbsp; &nbsp; &nbsp; &nbsp; If the rating is in random<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- the ordering will be like line of mountains with valley&nbsp;in between.<a href="https://gist.github.com/starred" target="_blank">Refer to this</a><br /><br /><b>Solution:</b><br />C++ solution in git</a></blockquote><br />Passed all&nbsp;test cases.</b><script src="https://gist.github.com/3440598.js"> </script></div></div>
 ]]></content>
@@ -44,9 +44,9 @@
   
   <entry>
     <title type="html"><![CDATA[Serial Port Communication in Windows Using Java]]></title>
-    <link href="http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows/"/>
+    <link href="http://saran87.github.io/blog/2012/08/14/serial-port-communication-in-windows/"/>
     <updated>2012-08-14T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows</id>
+    <id>http://saran87.github.io/blog/2012/08/14/serial-port-communication-in-windows</id>
     <content type="html"><![CDATA[<p>Serial Port communication using java can be done using RXTX library.&nbsp; RXTX library is a native library provides serial and parallel communication for the Java Development Toolkit (JDK). RXTX is provided under gnu LGPL license. RXTX provides same support as javax.comm library</p>
 
 <h2>Installing RXTX in Windows <u>32Bit</u> Machine:</h2>
@@ -120,9 +120,9 @@ It can trip across a known JRE deadlock bug.
   
   <entry>
     <title type="html"><![CDATA[Answer to a Question(Numeric to Word)]]></title>
-    <link href="http://saran87.github.com/blog/2011/07/11/answer-to-questionnumeric-to-word/"/>
+    <link href="http://saran87.github.io/blog/2011/07/11/answer-to-questionnumeric-to-word/"/>
     <updated>2011-07-11T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2011/07/11/answer-to-questionnumeric-to-word</id>
+    <id>http://saran87.github.io/blog/2011/07/11/answer-to-questionnumeric-to-word</id>
     <content type="html"><![CDATA[<p>Read a interview question to write an algorithm to convert entered numeric values to words (ex: 1&mdash;one ,2 &ndash; two) for up to six digits. Is it hard to convert ? No . We could do this in lot many ways but an effective program which uses proper data structure and algorithm that&rsquo;s what it takes.</p>
 
 <p>Here I got it <a href="https://sites.google.com/site/ourorganisationsite/number-to-currency"><a href="https://sites.google.com/site/ourorganisationsite/number-to-currency">https://sites.google.com/site/ourorganisationsite/number-to-currency</a></a></p>
@@ -135,9 +135,9 @@ It can trip across a known JRE deadlock bug.
   
   <entry>
     <title type="html"><![CDATA[Attic - a File Locker Application]]></title>
-    <link href="http://saran87.github.com/blog/2011/03/02/attic-file-locker-application/"/>
+    <link href="http://saran87.github.io/blog/2011/03/02/attic-file-locker-application/"/>
     <updated>2011-03-02T00:00:00-05:00</updated>
-    <id>http://saran87.github.com/blog/2011/03/02/attic-file-locker-application</id>
+    <id>http://saran87.github.io/blog/2011/03/02/attic-file-locker-application</id>
     <content type="html"><![CDATA[<div class='post'>
 <div dir="ltr" style="text-align: left;" trbidi="on"><div><br /></div><div>A File Locker application  for windows using WPF in .NET .</div><div><br /></div><div><a href="https://sites.google.com/site/atticthelocker/">https://sites.google.com/site/atticthelocker/</a> Download demo beta application here.</div><div><br /></div><div><br /></div><div>complete application will be available by this month end for free.Working on the UI Part currently.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-PfUAjs3LTF4/TsWjQtYQR5I/AAAAAAAAFQA/65-0nP7fDgU/s1600/Untitled.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="340" src="http://1.bp.blogspot.com/-PfUAjs3LTF4/TsWjQtYQR5I/AAAAAAAAFQA/65-0nP7fDgU/s640/Untitled.png" width="640" /></a></div></div><div><br /></div></div></div>
 ]]></content>
@@ -145,9 +145,9 @@ It can trip across a known JRE deadlock bug.
   
   <entry>
     <title type="html"><![CDATA[MVC Architecture]]></title>
-    <link href="http://saran87.github.com/blog/2009/07/25/mvc-architecture/"/>
+    <link href="http://saran87.github.io/blog/2009/07/25/mvc-architecture/"/>
     <updated>2009-07-25T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2009/07/25/mvc-architecture</id>
+    <id>http://saran87.github.io/blog/2009/07/25/mvc-architecture</id>
     <content type="html"><![CDATA[<div class='post'>
 The power of MVC Architecture in ASP.Net:<div><div><br /></div><div><ul><li>Great level of <span class="Apple-style-span"  style="color:#3366FF;">modularity </span>.Abstraction between layers and functionalities too.</li></ul><ul><li><span class="Apple-style-span"  style="color:#3366FF;">Your Html code will be neat</span> ,no more unwanted scripts and ugly ids for controls (i.e.) &#8220;ctl_100contentplaceholder_input&#8221;.</li></ul><ul><li><span class="Apple-style-span"  style="color:#3366FF;">Easy accessable </span>of control ids from java script .</li></ul><ul><li>Easy integration with jquery and other ajax frameworks .</li></ul><ul><li>With LINQ and SQL class, database is abstracted totally from the other business logic.</li></ul><ul><li><span class="Apple-style-span"  style="color:#3366FF;">Clean Urls </span>,Mapping of urls are done nicely as in servelts (Java) .</li></ul><div>These are some of the advantages I explored so far .</div><div><br /></div><div>Working on it  ..Will update if get to known more..</div></div></div></div>
 <h2>Comments</h2>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Technical | Saravana Kumar's]]></title>
-  <link href="http://saran87.github.com/blog/categories/technical/atom.xml" rel="self"/>
-  <link href="http://saran87.github.com/"/>
-  <updated>2014-02-24T05:39:23-05:00</updated>
-  <id>http://saran87.github.com/</id>
+  <link href="http://saran87.github.io/blog/categories/technical/atom.xml" rel="self"/>
+  <link href="http://saran87.github.io/"/>
+  <updated>2014-02-24T05:49:24-05:00</updated>
+  <id>http://saran87.github.io/</id>
   <author>
     <name><![CDATA[Saravana Kumar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Answer to a Question(Numeric to word)]]></title>
-    <link href="http://saran87.github.com/blog/2011/07/11/answer-to-questionnumeric-to-word/"/>
+    <link href="http://saran87.github.io/blog/2011/07/11/answer-to-questionnumeric-to-word/"/>
     <updated>2011-07-11T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2011/07/11/answer-to-questionnumeric-to-word</id>
+    <id>http://saran87.github.io/blog/2011/07/11/answer-to-questionnumeric-to-word</id>
     <content type="html"><![CDATA[<p>Read a interview question to write an algorithm to convert entered numeric values to words (ex: 1&mdash;one ,2 &ndash; two) for up to six digits. Is it hard to convert ? No . We could do this in lot many ways but an effective program which uses proper data structure and algorithm that&rsquo;s what it takes.</p>
 
 <p>Here I got it <a href="https://sites.google.com/site/ourorganisationsite/number-to-currency"><a href="https://sites.google.com/site/ourorganisationsite/number-to-currency">https://sites.google.com/site/ourorganisationsite/number-to-currency</a></a></p>

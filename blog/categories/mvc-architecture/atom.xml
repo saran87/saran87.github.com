@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: MVC Architecture | Saravana Kumar's]]></title>
-  <link href="http://saran87.github.com/blog/categories/mvc-architecture/atom.xml" rel="self"/>
-  <link href="http://saran87.github.com/"/>
-  <updated>2014-02-24T05:39:23-05:00</updated>
-  <id>http://saran87.github.com/</id>
+  <link href="http://saran87.github.io/blog/categories/mvc-architecture/atom.xml" rel="self"/>
+  <link href="http://saran87.github.io/"/>
+  <updated>2014-02-24T05:49:24-05:00</updated>
+  <id>http://saran87.github.io/</id>
   <author>
     <name><![CDATA[Saravana Kumar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[MVC Architecture]]></title>
-    <link href="http://saran87.github.com/blog/2009/07/25/mvc-architecture/"/>
+    <link href="http://saran87.github.io/blog/2009/07/25/mvc-architecture/"/>
     <updated>2009-07-25T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2009/07/25/mvc-architecture</id>
+    <id>http://saran87.github.io/blog/2009/07/25/mvc-architecture</id>
     <content type="html"><![CDATA[<div class='post'>
 The power of MVC Architecture in ASP.Net:<div><div><br /></div><div><ul><li>Great level of <span class="Apple-style-span"  style="color:#3366FF;">modularity </span>.Abstraction between layers and functionalities too.</li></ul><ul><li><span class="Apple-style-span"  style="color:#3366FF;">Your Html code will be neat</span> ,no more unwanted scripts and ugly ids for controls (i.e.) "ctl_100contentplaceholder_input".</li></ul><ul><li><span class="Apple-style-span"  style="color:#3366FF;">Easy accessable </span>of control ids from java script .</li></ul><ul><li>Easy integration with jquery and other ajax frameworks .</li></ul><ul><li>With LINQ and SQL class, database is abstracted totally from the other business logic.</li></ul><ul><li><span class="Apple-style-span"  style="color:#3366FF;">Clean Urls </span>,Mapping of urls are done nicely as in servelts (Java) .</li></ul><div>These are some of the advantages I explored so far .</div><div><br /></div><div>Working on it  ..Will update if get to known more..</div></div></div></div>
 

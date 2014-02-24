@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Java | Saravana Kumar's]]></title>
-  <link href="http://saran87.github.com/blog/categories/java/atom.xml" rel="self"/>
-  <link href="http://saran87.github.com/"/>
-  <updated>2014-02-24T05:39:23-05:00</updated>
-  <id>http://saran87.github.com/</id>
+  <link href="http://saran87.github.io/blog/categories/java/atom.xml" rel="self"/>
+  <link href="http://saran87.github.io/"/>
+  <updated>2014-02-24T05:49:24-05:00</updated>
+  <id>http://saran87.github.io/</id>
   <author>
     <name><![CDATA[Saravana Kumar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Serial port communication in windows using java]]></title>
-    <link href="http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows/"/>
+    <link href="http://saran87.github.io/blog/2012/08/14/serial-port-communication-in-windows/"/>
     <updated>2012-08-14T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows</id>
+    <id>http://saran87.github.io/blog/2012/08/14/serial-port-communication-in-windows</id>
     <content type="html"><![CDATA[<p>Serial Port communication using java can be done using RXTX library.&nbsp; RXTX library is a native library provides serial and parallel communication for the Java Development Toolkit (JDK). RXTX is provided under gnu LGPL license. RXTX provides same support as javax.comm library</p>
 
 <h2>Installing RXTX in Windows <u>32Bit</u> Machine:</h2>

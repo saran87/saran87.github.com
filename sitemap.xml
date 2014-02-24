@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://saran87.github.com/blog/2009/07/25/mvc-architecture/</loc>
+        <loc>http://saran87.github.io/blog/2009/07/25/mvc-architecture/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/blog/2011/03/02/attic-file-locker-application/</loc>
+        <loc>http://saran87.github.io/blog/2011/03/02/attic-file-locker-application/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/blog/2011/07/11/answer-to-questionnumeric-to-word/</loc>
+        <loc>http://saran87.github.io/blog/2011/07/11/answer-to-questionnumeric-to-word/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows/</loc>
+        <loc>http://saran87.github.io/blog/2012/08/14/serial-port-communication-in-windows/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/blog/2012/08/23/interview-street-challenge-candies/</loc>
+        <loc>http://saran87.github.io/blog/2012/08/23/interview-street-challenge-candies/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://saran87.github.com/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm/
+            http://saran87.github.io/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm/
         </loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/blog/archives/</loc>
+        <loc>http://saran87.github.io/blog/archives/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/</loc>
+        <loc>http://saran87.github.io/</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://saran87.github.com/robots.txt</loc>
+        <loc>http://saran87.github.io/robots.txt</loc>
         <lastmod>2014-02-24T05:21:38-05:00</lastmod>
     </url>
 </urlset>

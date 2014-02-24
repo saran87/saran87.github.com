@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Interview Street Challenge | Saravana Kumar's]]></title>
-  <link href="http://saran87.github.com/blog/categories/interview-street-challenge/atom.xml" rel="self"/>
-  <link href="http://saran87.github.com/"/>
-  <updated>2014-02-24T05:39:23-05:00</updated>
-  <id>http://saran87.github.com/</id>
+  <link href="http://saran87.github.io/blog/categories/interview-street-challenge/atom.xml" rel="self"/>
+  <link href="http://saran87.github.io/"/>
+  <updated>2014-02-24T05:49:24-05:00</updated>
+  <id>http://saran87.github.io/</id>
   <author>
     <name><![CDATA[Saravana Kumar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Interview street challenge - Candies]]></title>
-    <link href="http://saran87.github.com/blog/2012/08/23/interview-street-challenge-candies/"/>
+    <link href="http://saran87.github.io/blog/2012/08/23/interview-street-challenge-candies/"/>
     <updated>2012-08-23T00:00:00-04:00</updated>
-    <id>http://saran87.github.com/blog/2012/08/23/interview-street-challenge-candies</id>
+    <id>http://saran87.github.io/blog/2012/08/23/interview-street-challenge-candies</id>
     <content type="html"><![CDATA[<div class='post'>
 <div dir="ltr" style="text-align: left;" trbidi="on"><br /><b>Problem:</b><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Interview Street&nbsp;<a href="https://www.interviewstreet.com/challenges/dashboard/#problem/4fe12e4cbb829" target="_blank">Problem</a>:<br /><br /><b>Idea:</b><br />&nbsp; &nbsp; &nbsp; &nbsp; If the rating is in increasing order<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Just traverse through it and increase the number of candies<br />&nbsp; &nbsp; &nbsp; &nbsp; If the rating is in decreasing order<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Same as increasing order but in reverse way<br />&nbsp; &nbsp; &nbsp; &nbsp; If the rating is in random<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- the ordering will be like line of mountains with valley&nbsp;in between.<a href="https://gist.github.com/starred" target="_blank">Refer to this</a><br /><br /><b>Solution:</b><br />C++ solution in git</a></blockquote><br />Passed all&nbsp;test cases.</b><script src="https://gist.github.com/3440598.js"> </script></div></div>
 
