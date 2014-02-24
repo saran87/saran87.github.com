@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: locker | Saravana Kumar's]]></title>
+  <link href="http://saran87.github.com/blog/categories/locker/atom.xml" rel="self"/>
+  <link href="http://saran87.github.com/"/>
+  <updated>2014-02-24T05:39:23-05:00</updated>
+  <id>http://saran87.github.com/</id>
+  <author>
+    <name><![CDATA[Saravana Kumar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Attic - A File Locker Application]]></title>
+    <link href="http://saran87.github.com/blog/2011/03/02/attic-file-locker-application/"/>
+    <updated>2011-03-02T00:00:00-05:00</updated>
+    <id>http://saran87.github.com/blog/2011/03/02/attic-file-locker-application</id>
+    <content type="html"><![CDATA[<div class='post'>
+<div dir="ltr" style="text-align: left;" trbidi="on"><div><br /></div><div>A File Locker application  for windows using WPF in .NET .</div><div><br /></div><div><a href="https://sites.google.com/site/atticthelocker/">https://sites.google.com/site/atticthelocker/</a> Download demo beta application here.</div><div><br /></div><div><br /></div><div>complete application will be available by this month end for free.Working on the UI Part currently.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-PfUAjs3LTF4/TsWjQtYQR5I/AAAAAAAAFQA/65-0nP7fDgU/s1600/Untitled.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="340" src="http://1.bp.blogspot.com/-PfUAjs3LTF4/TsWjQtYQR5I/AAAAAAAAFQA/65-0nP7fDgU/s640/Untitled.png" width="640" /></a></div></div><div><br /></div></div></div>
+
+]]></content>
+  </entry>
+  
+</feed>

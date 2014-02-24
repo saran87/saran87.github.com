@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Clustering | Saravana Kumar's]]></title>
+  <link href="http://saran87.github.com/blog/categories/clustering/atom.xml" rel="self"/>
+  <link href="http://saran87.github.com/"/>
+  <updated>2014-02-24T05:39:23-05:00</updated>
+  <id>http://saran87.github.com/</id>
+  <author>
+    <name><![CDATA[Saravana Kumar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Union-Find Data Structure Python : For clustering algorithm]]></title>
+    <link href="http://saran87.github.com/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm/"/>
+    <updated>2013-01-04T22:45:00-05:00</updated>
+    <id>http://saran87.github.com/blog/2013/01/04/union-find-data-structure-python-for-clustering-algorithm</id>
+    <content type="html"><![CDATA[<p>I was coding kurskal’s clustering algorithm for a max-spacing k-clustering problem. To improve the efficiency of the clustering algorithm, I needed an efficient data structure to union two cluster and find an element in a cluster.</p>
+
+<p>Union Find (disjoint-set) data structure is best option for above operations. Implemented the Union Find structure as per the algorithm specified in the Introduction to Algorithms book.</p>
+
+<p>This Implementation includes Union by Rank and Path compression, which gives a amortized runtime of a(n) (i.e a &ndash; <a href="http://en.wikipedia.org/wiki/Ackermann_function" title="Ackermann function">Ackermann function</a>)</p>
+
+<p><div><script src='https://gist.github.com/4751455.js'></script>
+<noscript><pre><code></code></pre></noscript></div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

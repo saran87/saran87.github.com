@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: RXTX library | Saravana Kumar's]]></title>
+  <link href="http://saran87.github.com/blog/categories/rxtx-library/atom.xml" rel="self"/>
+  <link href="http://saran87.github.com/"/>
+  <updated>2014-02-24T05:39:23-05:00</updated>
+  <id>http://saran87.github.com/</id>
+  <author>
+    <name><![CDATA[Saravana Kumar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Serial port communication in windows using java]]></title>
+    <link href="http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows/"/>
+    <updated>2012-08-14T00:00:00-04:00</updated>
+    <id>http://saran87.github.com/blog/2012/08/14/serial-port-communication-in-windows</id>
+    <content type="html"><![CDATA[<p>Serial Port communication using java can be done using RXTX library.&nbsp; RXTX library is a native library provides serial and parallel communication for the Java Development Toolkit (JDK). RXTX is provided under gnu LGPL license. RXTX provides same support as javax.comm library</p>
+
+<h2>Installing RXTX in Windows <u>32Bit</u> Machine:</h2>
+
+<ul>
+<li><p>Identify your Java Runtime Environment&rsquo;s folder. For version 1.6.0, this usually isc:\Program Files\Java\jre1.6.0_01\</p></li>
+<li><p>Copy the files from the downloaded RXTX binaries folder.
+Download binaries here <a href="http://rxtx.qbang.org/wiki/index.php/Download">http://rxtx.qbang.org/wiki/index.php/Download</a></p></li>
+<li><p>Copy rxtxParallel.dll to c:\Program Files\Java\jre1.6.0_01\bin\</p></li>
+<li><p>Copy rxtxSerial.dll to c:\Program Files\Java\jre1.6.0_01\bin\</p></li>
+<li><p>Copy RXTXcomm.jar to c:\Program Files\Java\jre1.6.0_01\lib\ext\</p></li>
+</ul>
+
+
+<h2>Installing RXTX in Windows <u>64Bit</u> Machine:</h2>
+
+<p>Do the same as for 32 bit except download the binaries from here <a href="http://www.cloudhopper.com/opensource/rxtx/"><a href="http://www.cloudhopper.com/opensource/rxtx/">http://www.cloudhopper.com/opensource/rxtx/</a></a></p>
+
+<h3>Using RXTX in Eclipse</h3>
+
+<p>Usually RXTX works but for eclipse sometimes it won’t work. You can use below way to  configure the eclipse environment.</p>
+
+<h3>Way-I:</h3>
+
+<ul>
+<li>Copy RXTXcomm.jar, rxtxSerial.dll and rxtxParallel.dll files to the lib directory of your project</li>
+<li>Under Project | Properties | Java Build Path | Libraries</li>
+<li>Click Add JARs&hellip; Button</li>
+<li>Select the RXTXComm.jar from lib directory</li>
+<li>Jar should now be in the Build Path</li>
+<li>expand the RXTXComm.jar entry in the list and select &ldquo;Native Library Location&rdquo;</li>
+<li>Select the project lib directory and apply</li>
+</ul>
+
+
+<h3>Alternative way:</h3>
+
+<p>The above setup didn&rsquo;t quite work for me, so here is an alternative.</p>
+
+<ul>
+<li>Copy RXTXcomm.jar to the lib directory of your project.</li>
+<li>Navigate your package explorer to the lib folder, right click on RXTXcomm.jar | Build Path | Add to build  path.</li>
+<li>Copy rxtxSerial.dll and rxtxParallel.dll files to the root directory of your project.</li>
+<li>Under Run | Run configurations | Classpath tab | User entries | Advanced | Add folder, choose the root folder of your project.</li>
+</ul>
+
+
+<p>This should be enough just to run it under Eclipse, when deploying a runnable jar, just make sure the dlls are on the same folder as the jar (JVM assumes it for classpath).</p>
+
+<h3>For installing RXTX in Other OS:</h3>
+
+<p>Refer this link <a href="http://rxtx.qbang.org/wiki/index.php/Installation.">http://rxtx.qbang.org/wiki/index.php/Installation.</a></p>
+
+<h3>Usage:</h3>
+
+<pre><code>import gnu.io.*;
+</code></pre>
+
+<p>The above header file is equivalent to javax.comm and provides all classes and methods provided by it.</p>
+
+<pre><code>Be careful when using System.in.read() and rxtx in win32; 
+It can trip across a known JRE deadlock bug.
+</code></pre>
+
+<h3>Samples:</h3>
+
+<p>Follow below link for samples given by rxtx.
+<a href="http://rxtx.qbang.org/wiki/index.php/Examples">Link</a></p>
+]]></content>
+  </entry>
+  
+</feed>
